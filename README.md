@@ -31,36 +31,36 @@ The Mayan Machine Grants an additional multiplier for every connection. This mul
 The Mayan Machine can randomly increase to any level and give a random multiplier in both the Base Bet game mode and Feature Bet game mode. In the Base Bet game mode the machine grants a multiplier at levels 1-10. In the Feature Bet game mode the Mayan Machine grants a multiplier at levels 5-10. 
 
 MACHINE LEVELS AND PAY TABLE :
--  Mayan Machine Levels (Max Machine Level = 10, Max Total Multiplier - 10000x)
-1 = +1x
-2 = +2-3x
-3 = +4-5x
-4 = +6-9x
-5 = +10-14x
-6 = +15-24x
-7 = +25-49x
-8 = +50-99x
-9 = +100-249x
-10 = +250-500x 
+- Mayan Machine Levels (Max Machine Level = 10, Max Total Multiplier - 10000x)
+- 1 = +1x
+- 2 = +2-3x
+- 3 = +4-5x
+- 4 = +6-9x
+- 5 = +10-14x
+- 6 = +15-24x
+- 7 = +25-49x
+- 8 = +50-99x
+- 9 = +100-249x
+- 10 = +250-500x 
 
 Symbol Pay (8-9 Symbols, 10-11 Symbols, 12+ Symbols) ( Multiplied by Bet ).
-10 - 0.10x, 0.20x, 0.30x
-J - 0.15x, 0.30x, 0.45x
-Q - 0.20x, 0.40x, 0.60x
-K - 0.25x, 0.50x, 0.75x
-A - 0.35x, 0.70x, 1.05x
-Orange - 0.50x, 1.00, 1.50x
-Green - 1.00x, 2.00x, 3.00x
-Blue - 1.50x, 3.00x, 4.50x
-Red - 2.25x, 4.50x, 6.75x
-Gold - 5.00x, 10.00x, 15.00x
+- 10 - 0.10x, 0.20x, 0.30x
+- J - 0.15x, 0.30x, 0.45x
+- Q - 0.20x, 0.40x, 0.60x
+- K - 0.25x, 0.50x, 0.75x
+- A - 0.35x, 0.70x, 1.05x
+- Orange - 0.50x, 1.00, 1.50x
+- Green - 1.00x, 2.00x, 3.00x
+- Blue - 1.50x, 3.00x, 4.50x
+- Red - 2.25x, 4.50x, 6.75x
+- Gold - 5.00x, 10.00x, 15.00x
 
-Base Bet (Base Game) > Volatility = Very High
-Bonus Hunt (X Bet) > Volatility = Extreme
-Feature Bet (Mayan Machine Multiplier Strike) > Volatility = Insane
-Buy Bonus (Mayan Machine Bonus Game) > Volatility = Extreme
+- Base Bet (Base Game) > Volatility = Very High
+- Bonus Hunt (X Bet) > Volatility = Extreme
+- Feature Bet (Mayan Machine Multiplier Strike) > Volatility = Insane
+- Buy Bonus (Mayan Machine Bonus Game) > Volatility = Extreme
 
-OVERALL GAME CONSENSUS
-RTP = 97.64%
-Volatility = Extreme
+- OVERALL GAME CONSENSUS
+- RTP = 97.64%
+- Volatility = Extreme
 
