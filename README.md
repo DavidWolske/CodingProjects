@@ -43,7 +43,7 @@ MACHINE LEVELS AND PAY TABLE :
 - 9 = +100-249x
 - 10 = +250-500x 
 
-Symbol Pay (8-9 Symbols, 10-11 Symbols, 12+ Symbols) ( Multiplied by Bet ).
+SYMBOL PAY (8-9 Symbols, 10-11 Symbols, 12+ Symbols) ( Multiplied by Bet ).
 - 10 - 0.10x, 0.20x, 0.30x
 - J - 0.15x, 0.30x, 0.45x
 - Q - 0.20x, 0.40x, 0.60x
@@ -55,12 +55,13 @@ Symbol Pay (8-9 Symbols, 10-11 Symbols, 12+ Symbols) ( Multiplied by Bet ).
 - Red - 2.25x, 4.50x, 6.75x
 - Gold - 5.00x, 10.00x, 15.00x
 
+VOLATILITY DESCRIPTION
 - Base Bet (Base Game) > Volatility = Very High
 - Bonus Hunt (X Bet) > Volatility = Extreme
 - Feature Bet (Mayan Machine Multiplier Strike) > Volatility = Insane
 - Buy Bonus (Mayan Machine Bonus Game) > Volatility = Extreme
 
-- OVERALL GAME CONSENSUS
+OVERALL GAME CONSENSUS
 - RTP = 97.64%
 - Volatility = Extreme
 
