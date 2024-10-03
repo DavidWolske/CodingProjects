@@ -62,6 +62,6 @@ VOLATILITY DESCRIPTION
 - Buy Bonus (Mayan Machine Bonus Game) > Volatility = Extreme
 
 OVERALL GAME CONSENSUS
-- RTP = 97.64%
+- RTP = 97.64% (Return To Player : Is the Expected Value Ratio ruturned to players for each bet that is made)
 - Volatility = Extreme
 
